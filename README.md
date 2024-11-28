@@ -3,7 +3,7 @@
 - Beginner in:
 -   C++
 -   Java
--   HTML/CSS
+-   HTML/CSS/JavaScript
 -   PHP
 -   C#
 -   SQL/mySQL
